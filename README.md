@@ -30,7 +30,8 @@ The analysis addresses five key questions:
 
 ## 03. Dashboard 1 — Commercial Performance Overview
 
-![Andes Retail Group Overview](andes_overview.png)
+![Andes Retail Group Overview](andes_detailed.png)
+
 
 The executive dashboard provides an overview of commercial performance, including:
 
@@ -46,7 +47,8 @@ Interactive filters allow users to explore performance by date, country, region,
 
 ## 04. Dashboard 2 — Detailed Commercial Analysis
 
-![Andes Retail Group Detailed Dashboard](andes_detailed.png)
+![Andes Retail Group Detailed Dashboard](andes_overview.png)
+
 
 The detailed dashboard expands the analysis through:
 

@@ -111,6 +111,69 @@ These are potential applications of the analysis, rather than measured business 
 - `andes_overview.png` — Executive dashboard screenshot.
 - `andes_detailed.png` — Detailed dashboard screenshot.
 
+## Key Findings & Commercial Recommendations
+
+### 1. Overall Commercial Performance
+
+Across 2024–2025, the dataset records:
+
+- Total revenue: $5,531,994 USD
+- Total profit: $1,941,749.33 USD
+- Total orders: 5,000
+- Total units sold: 57,601
+- Overall profit-to-revenue ratio: approximately 35.1%
+
+The results provide a baseline for evaluating commercial performance across the three markets.
+
+### 2. Geographical Performance
+
+| Market | Revenue (USD) | Profit (USD) |
+|---|---:|---:|
+| Peru | $2,158,578 | $760,633.33 |
+| Chile | $2,027,669 | $710,794.67 |
+| Colombia | $1,345,747 | $470,321.33 |
+
+**Finding:** Peru generated the highest revenue, followed by Chile and Colombia.
+
+**Commercial recommendation:** Investigate the differences in order volume, average order value, product mix, and customer demand between markets before making allocation or investment decisions.
+
+### 3. Product Category Performance
+
+The dashboard shows the following approximate revenue contributions:
+
+- Sports: $1.44M
+- Electronics: $1.41M
+- Home: $1.36M
+- Clothing: $1.32M
+
+**Finding:** Sports and Electronics generated the highest category revenue, although all four categories contributed substantial sales.
+
+**Commercial recommendation:** Compare category profitability, units sold, and seasonal demand before prioritising assortment expansion or inventory investment.
+
+### 4. Seasonal Performance
+
+The seasonal dashboard indicates that summer generated the highest revenue among the four seasons.
+
+**Commercial recommendation:** Investigate whether this pattern is consistent across both years and all markets. Use the findings to inform seasonal demand forecasting, stock allocation, and promotional planning.
+
+### 5. Customer Segmentation
+
+The dashboard identifies three customer segments: Standard, Premium, and Economic.
+
+Standard customers account for the largest volume of units sold, followed by Premium and Economic customers.
+
+**Commercial recommendation:** Evaluate revenue per customer, purchasing frequency, and profitability by segment to identify opportunities for customer retention and commercial growth.
+
+---
+
+### Analytical Limitations
+
+These findings are descriptive and based on the Power BI dashboard outputs.
+
+The analysis does not establish causality, and the commercial recommendations are proposed actions rather than measured business outcomes.
+
+The dataset was supplied by TripleTen for an educational analytics project.
+
 ## 09. About the Analyst
 
 **Victoria López Vázquez**

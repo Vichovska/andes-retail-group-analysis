@@ -18,6 +18,15 @@ Using Power BI, I developed two complementary dashboards to examine revenue, pro
 
 The objective was to transform transactional retail data into accessible business intelligence that supports commercial decision-making.
 
+
+### Dataset & Business Context
+
+This project was developed as part of the TripleTen Data Analytics Bootcamp using a retail dataset supplied by TripleTen.
+
+"Andes Retail Group" is a fictional business name used to contextualise the analysis. The dashboards examine retail sales data for Chile, Colombia, and Peru across 2024–2025.
+
+The project demonstrates business intelligence and commercial analysis skills; it does not represent commissioned work for an operating company.
+
 ## 02. Business Objectives
 
 The analysis addresses five key questions:

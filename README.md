@@ -33,6 +33,7 @@ The analysis addresses five key questions:
 ![Andes Retail Group Overview](andes_detailed.png)
 
 
+
 The executive dashboard provides an overview of commercial performance, including:
 
 - Total revenue
